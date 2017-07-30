@@ -1,1 +1,2 @@
-# assignment2
+# AngularJsAssignment2TypeAhead
+AngularJsAssignment2TypeAhead
